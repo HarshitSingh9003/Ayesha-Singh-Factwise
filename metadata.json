@@ -1,0 +1,5 @@
+{
+  "name": "MediTrack QTC",
+  "description": "A role-based hospital operations system for a 74-bed Quarantine and Treatment Centre, streamlining nurse, doctor, and admin workflows.",
+  "requestFramePermissions": []
+}
